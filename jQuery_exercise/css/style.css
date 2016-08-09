@@ -1,0 +1,30 @@
+#main{
+  background-color: lightgreen;
+  text-align: center;
+}
+.navbar-form{
+  background-color: green;
+}
+.navbar-head{
+  color: white;
+  margin-top: 10px;
+}
+#left_col{
+  margin-left: 10px;
+}
+#right_col{
+  margin-right: 10px;
+}
+.form-control, .btn{
+  margin-bottom: 10px;
+}
+#details_head, #poster_head{
+  margin: 0 0 10px 0;
+}
+th{
+  text-align: center;
+}
+img{
+  height: 40px;
+  width: 40px;
+}
